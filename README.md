@@ -1,8 +1,6 @@
 [![Header](https://www.sergiosegurablanco.com/wp-content/uploads/2022/03/portada_sin_foto.jpg "Header")](https://www.sergiosegurablanco.com)
 
-## Hi I'm Sergio Segura 👋
-
-
+## About me 😊
 
 - 🔭 I’m currently working as a freelance junior frontend developer
 - 🌱 I’m currently self-taught learning everything related to web development. My only goal is to become a high level web developer
