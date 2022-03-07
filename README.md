@@ -1,4 +1,4 @@
-[![Header](https://www.sergiosegurablanco.com/wp-content/uploads/2022/03/portada_sin_foto.jpg target="_blank" "Header")](https://www.sergiosegurablanco.com)
+[![Header](https://www.sergiosegurablanco.com/wp-content/uploads/2022/03/portada_sin_foto.jpg "Header")](https://www.sergiosegurablanco.com)
 
 ## Hi I'm Sergio Segura 👋
 
