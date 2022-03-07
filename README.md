@@ -1,4 +1,4 @@
-[![Header]("D:\Usuarios\ssegu\Documentos\WEBSITES\WEBSITES\sergiosegurablanco.com\img\portada_sin_foto.jpg" "Header")]
+[![Header](https://www.sergiosegurablanco.com/wp-content/uploads/2022/03/portada_sin_foto.jpg "Header")]
 
 ## Hi I'm Sergio Segura 👋
 
