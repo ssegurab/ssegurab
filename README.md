@@ -1,4 +1,6 @@
-### Hi I'm Sergio Segura 👋
+[![Header]("D:\Usuarios\ssegu\Documentos\WEBSITES\WEBSITES\sergiosegurablanco.com\img\portada_sin_foto.jpg" "Header")]
+
+## Hi I'm Sergio Segura 👋
 
 
 
