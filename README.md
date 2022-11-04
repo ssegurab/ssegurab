@@ -1,4 +1,4 @@
-[![ssegurab](https://www.sergiosegurablanco.com/wp-content/uploads/2022/03/portada_con_foto_08.jpg "ssegurab")](https://www.sergiosegurablanco.com)
+[![ssegurab](https://www.sergiosegurablanco.com/wp-content/uploads/2022/11/Portada_sin_foto_10.jpg "ssegurab")](https://www.sergiosegurablanco.com)
 
 ## About me 😊
 
